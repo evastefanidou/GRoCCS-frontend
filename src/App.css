@@ -1,0 +1,9 @@
+.container {
+  text-align: center;
+  height: 100vh; /*  to set the height to 100% of viewport height */
+  width: 100vw; /* to set thr width to 100% of viewport width */
+}
+
+
+
+
